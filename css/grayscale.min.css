@@ -55,6 +55,8 @@ p {
 #bio-photo {
    border-radius: 100px;
    float: left;
+   height: 275px;
+   width: auto;
 }
 
 @media (min-width:768px) {
