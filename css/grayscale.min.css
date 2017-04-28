@@ -44,6 +44,14 @@ p {
    float: right;
 }
 
+.phone {
+  font-size: 35px;
+}
+
+#phone-icon {
+  float: left;
+}
+
 #bio-photo {
    border-radius: 100px;
    float: left;
