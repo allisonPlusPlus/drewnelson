@@ -40,8 +40,13 @@ p {
     line-height: 1.5
 }
 
+.bio {
+   float: right;
+}
+
 #bio-photo {
    border-radius: 100px;
+   float: left;
 }
 
 @media (min-width:768px) {
